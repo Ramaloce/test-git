@@ -1,0 +1,11 @@
+<H1> hello </H1>
+<h2> branch dev </h2>
+
+dev branch change
+
+<<<<<<< d1a32b1ab8a0a8eec05cbb232059d569ddc7b0d1
+изменение ветки dev 2 проход
+=======
+
+<изменение ветки мастер>
+>>>>>>> 1
